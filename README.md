@@ -2,7 +2,6 @@
 IC3 - interaction with the faculties and counsellors. September 29, 2021
 
 
-
 ## Artificial Intelligence
 Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind.
 Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. 
@@ -104,6 +103,8 @@ https://www.nwengineeringllc.com/article/computer-vision-in-embedded-systems-and
 https://www.vision-systems.com/embedded/article/14201715/iot-embedded-vision-systems-for-machine-vision-and-imaging-applications
 
 ## Quantum Computing
+Quantum computing is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states, such as superposition, interference, and entanglement, to perform computation.
+
 What quantum computing could mean for customer experience By Steven Van Belleghem
 https://www.stevenvanbelleghem.com/blog/what-quantum-computing-could-mean-for-customer-experience/
 
